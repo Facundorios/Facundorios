@@ -1,6 +1,6 @@
 # ¡Hola! Soy Facundo Ríos 👋
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un/a joven desarrollador/a argentino/a de 19 años de Formosa, Argentina. Me apasiona la creación de aplicaciones web y móviles utilizando tecnologías modernas. Aquí encontrarás una variedad de proyectos en los que he estado trabajando, principalmente utilizando el stack MERN (MongoDB, Express.js, React.js, Node.js), así como otras tecnologías como Python, Nest.js, y JavaScript en general.
+¡Bienvenido/a a mi perfil de GitHub! Soy un/a joven desarrollador de 19 años de Formosa, Argentina. Me apasiona la creación de aplicaciones web y móviles utilizando tecnologías modernas. Aquí encontrarás una variedad de proyectos en los que he estado trabajando, principalmente utilizando el stack MERN (MongoDB, Express.js, React.js, Node.js), así como otras tecnologías como Python, Nest.js, y JavaScript en general.
 
 ## Sobre mí
 
