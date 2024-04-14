@@ -27,6 +27,6 @@ Aquí hay una lista de algunos de mis proyectos más destacados:
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?facundorios&show_icons=true&theme=radical)
 
 ¡No dudes en explorar mis repositorios para ver más de cerca mi trabajo! Si tienes alguna pregunta o sugerencia, no dudes en contactarme. ¡Gracias por visitar mi perfil!
