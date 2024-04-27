@@ -20,7 +20,7 @@ Aquí hay una lista de algunos de mis proyectos más destacados:
 
 ## Tecnologías que Manejo
 
-- **Lenguajes de Programación:** JavaScript, Python.
+- **Lenguajes de Programación:** JavaScript, TypeScript, Python.
 - **Frameworks y Librerías:** Express.js, Node.js, Nest.js, React.js, TensorFlow (Proximamente).
 - **Base de Datos:** MongoDB, MySQL.
 - **Herramientas y Otros:** Git, Docker.
