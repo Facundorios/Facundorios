@@ -40,7 +40,8 @@ Aquí hay una lista de algunos de mis proyectos más destacados:
 <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/graphql-E10098.svg?logo=graphql&logoColor=white"></a>
 <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white"></a>
 <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/NextJS-000000.svg?logo=nextdotjs&logoColor=white"></a>
-<a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react-native&logoColor=black"></a>
+
 </p>
 
 #### <p align="center"> Softwares y applicaciones </p>
@@ -50,6 +51,7 @@ Aquí hay una lista de algunos de mis proyectos más destacados:
 <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+
 </p>
 
 #### <p align="center"> Nubes y almacenamiento </p>
