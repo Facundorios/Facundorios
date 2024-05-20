@@ -40,7 +40,7 @@ Aquí hay una lista de algunos de mis proyectos más destacados:
 <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/graphql-E10098.svg?logo=graphql&logoColor=white"></a>
 <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white"></a>
 <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/NextJS-000000.svg?logo=nextdotjs&logoColor=white"></a>
-<a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react-native&logoColor=black"></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
 
 </p>
 
