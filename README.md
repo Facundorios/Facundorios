@@ -21,7 +21,6 @@ Aquí hay una lista de algunos de mis proyectos más destacados:
 #### Tecnologías:
 
 #### <p align="center"> Lenguajes de programación (y html) </p>
-  
 <p align="center">
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -35,8 +34,6 @@ Aquí hay una lista de algunos de mis proyectos más destacados:
 </p>
 
 #### <p align="center"> Framworks & librerias </p>
-
-
 <p align="center">
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
@@ -56,8 +53,6 @@ Aquí hay una lista de algunos de mis proyectos más destacados:
 </p>
 
 #### <p align="center"> Nubes y almacenamiento </p>
-
-
 <p align="center">
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&logoColor=white"></a>
