@@ -39,7 +39,6 @@ Aquí hay una lista de algunos de mis proyectos más destacados:
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
 <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/graphql-E10098.svg?logo=graphql&logoColor=white"></a>
 <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white"></a>
-<a href="#"><img alt="NextJS" src="https://img.shields.io/badge/NextJS-000000.svg?logo=nextdotjs&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
 
 </p>
@@ -49,7 +48,6 @@ Aquí hay una lista de algunos de mis proyectos más destacados:
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
 <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
-<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
 </p>
