@@ -64,8 +64,9 @@ Aquí hay una lista de algunos de mis proyectos más destacados:
 </p>
 
 ## Estadísticas de GitHub
+![facundorios's Stats](https://github-readme-stats.vercel.app/api?username=facundorios&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![facundorios's Streak](https://github-readme-streak-stats.herokuapp.com/?user=facundorios&theme=dracula&hide_border=false)
+![facundorios's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=facundorios&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=facundorios&show_icons=true&theme=radical)
-[![Lenguajes más utilizados:](https://github-readme-stats.vercel.app/api/top-langs/?username=facundorios&layout=donut-vertical)
 
 ¡No dudes en explorar mis repositorios para ver más de cerca mi trabajo! Si tienes alguna pregunta o sugerencia, no dudes en contactarme. ¡Gracias por visitar mi perfil!
