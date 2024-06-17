@@ -1,22 +1,30 @@
 # ¡Hola! Soy Facundo Ríos 👋
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un joven desarrollador de 19 años de Formosa, Argentina. Me apasiona la creación de aplicaciones web y móviles utilizando tecnologías modernas. Aquí encontrarás una variedad de proyectos en los que he estado trabajando, principalmente utilizando el stack MERN (MongoDB, Express.js, React.js, Node.js), así como otras tecnologías como Python, Nest.js, y JavaScript en general.
 
-## Sobre mí
+¡Bienvenido/a a mi perfil de GitHub! Soy un joven desarrollador de 19 años de Formosa, Argentina. Me apasiona la creación de aplicaciones web y móviles utilizando tecnologías modernas. Aquí encontrarás una variedad de proyectos en los que he estado trabajando, principalmente utilizando el stack MERN (MongoDB, Express.js, React.js, Node.js), así como otras tecnologías como Python, Nest.js, y JavaScript en general.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# Sobre mí
 
 - 🌱 Actualmente estoy estoy estudiando la Tec. Sup. en Desarrollo de Software Multiplataforma, en el Instituto Politécnico Formosa.
 - 💼 Estoy disponible para oportunidades de trabajo, pasantías y proyectos interesantes.
 - 👯 Estoy abierto/a a colaboraciones y aprendizaje conjunto.
 - 📫 Puedes contactarme a través de mi [correo electrónico](mailto:Facundorios2005@gmail.com) o por mensaje directo en [Twitter](https://x.com/Facundorios05).
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Mis Proyectos Destacados
 
-Aquí hay una lista de algunos de mis proyectos más destacados:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - ["University of Knowledge"](https://github.com/tlp-MRRM/Proyecto_UK.git): Una plataforma creada para la difunción de carreras e instituciones.
-- ["IPF-CONECTA"](https://github.com/IPF-CONECTA/IPF-CONECTA): Una plataforma moderna creada con el fin de que los egresados de IPF (Instituto Politecnico Formosa), sean capaces de conectar con empresas y conseguir mayores oportunidades laborales. 
+- ["IPF-CONECTA"](https://github.com/IPF-CONECTA/IPF-CONECTA): Una plataforma moderna creada con el fin de que los egresados de IPF (Instituto Politecnico Formosa), sean capaces de conectar con empresas y conseguir mayores oportunidades laborales.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 #### Tecnologías:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">Editores de Código y Control de Versiones.</p>
 
@@ -60,6 +68,7 @@ Aquí hay una lista de algunos de mis proyectos más destacados:
     <a href="https://trello.com/"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
     <a href="https://www.atlassian.com/software/jira"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&logoColor=white"></a>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Estadísticas de GitHub
 ![facundorios's Stats](https://github-readme-stats.vercel.app/api?username=facundorios&theme=dracula&show_icons=true&hide_border=false&count_private=true)
