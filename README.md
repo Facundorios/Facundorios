@@ -13,10 +13,8 @@
 
 Aquí hay una lista de algunos de mis proyectos más destacados:
 
-- [TasksMaker](https://github.com/Facundorios/AUTH-CRUD-MERN.git): Utilizando el stack MERN y usando hooks indispensables para react.
-- [Matrix](https://github.com/Facundorios/ARRAYS.git): Un proyecto simple creado con el fin de poder multiplicar y sumar matrices.
 - ["University of Knowledge"](https://github.com/tlp-MRRM/Proyecto_UK.git): Una plataforma creada para la difunción de carreras e instituciones.
-- ["CSV"](https://github.com/Facundorios/PYTHON-TP2.git): Un generador de archivos csv con las localidades de mi país.
+- ["IPF-CONECTA"](https://github.com/IPF-CONECTA/IPF-CONECTA): Una plataforma moderna creada con el fin de que los egresados de IPF (Instituto Politecnico Formosa), sean capaces de conectar con empresas y conseguir mayores oportunidades laborales. 
 
 #### Tecnologías:
 
@@ -48,7 +46,7 @@ Aquí hay una lista de algunos de mis proyectos más destacados:
     <a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
 </p>
 
-<p align="center">Bases de Datos.</p>
+<p align="center">Manejo de bases de Datos.</p>
 
 <p align="center">
     <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
