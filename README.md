@@ -1,35 +1,40 @@
-# ¡Hola! Soy Facundo Ríos 👋
+<table>
+  <tr>
+    <td>
+      <img src="https://media1.tenor.com/m/V0-wtCT-OPAAAAAC/spike-spiegel.gif" width=404 >
+    </td>
+    <td style="color: #c0c0c0; background-color: #1a1a1a; padding: 20px;">
+      <h1 style="color: #66cdaa;">¡Hola! Soy Facundo Ríos</h1>
+      <p>¡Bienvenido/a a mi perfil de GitHub! Soy un joven desarrollador de 19 años de Formosa, Argentina. Me apasiona la creación de aplicaciones web y móviles utilizando tecnologías modernas. Aquí encontrarás una variedad de proyectos en los que he estado trabajando, principalmente utilizando el stack MERN (MongoDB, Express.js, React.js, Node.js), así como otras tecnologías como Python, Nest.js, y JavaScript en general.</p>
 
+  <h2 style="color: #66cdaa;">Sobre mí</h2>
+  <ul>
+    <li>🌱 Actualmente estoy estudiando la Tec. Sup. en Desarrollo de Software Multiplataforma, en el Instituto Politécnico Formosa.</li>
+    <li>💼 Estoy disponible para oportunidades de trabajo, pasantías y proyectos interesantes.</li>
+    <li>👯 Estoy abierto/a a colaboraciones y aprendizaje conjunto.</li>
+    <li>📫 Puedes contactarme a través de mi <a href="mailto:Facundorios2005@gmail.com" style="color: #66cdaa;">correo electrónico</a> o por mensaje directo en <a href="https://www.instagram.com/facundorios._" style="color: #66cdaa;">Instagram</a>.</li>
+  </ul>
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un joven desarrollador de 19 años de Formosa, Argentina. Me apasiona la creación de aplicaciones web y móviles utilizando tecnologías modernas. Aquí encontrarás una variedad de proyectos en los que he estado trabajando, principalmente utilizando el stack MERN (MongoDB, Express.js, React.js, Node.js), así como otras tecnologías como Python, Nest.js, y JavaScript en general.
-
-## Sobre mí
-
-- 🌱 Actualmente estoy estoy estudiando la Tec. Sup. en Desarrollo de Software Multiplataforma, en el Instituto Politécnico Formosa.
-- 💼 Estoy disponible para oportunidades de trabajo, pasantías y proyectos interesantes.
-- 👯 Estoy abierto/a a colaboraciones y aprendizaje conjunto.
-- 📫 Puedes contactarme a través de mi [correo electrónico](mailto:Facundorios2005@gmail.com) o por mensaje directo en [Twitter](https://x.com/Facundorios05).
-
-
-## Mis Proyectos Destacados
-
-
-- ["University of Knowledge"](https://github.com/tlp-MRRM/Proyecto_UK.git): Una plataforma creada para la difunción de carreras e instituciones.
-- ["IPF-CONECTA"](https://github.com/IPF-CONECTA/IPF-CONECTA): Una plataforma moderna creada con el fin de que los egresados de IPF (Instituto Politecnico Formosa), sean capaces de conectar con empresas y conseguir mayores oportunidades laborales.
-
-
+  <h2 style="color: #66cdaa;">Mis Proyectos Destacados</h2>
+  <ul>
+    <li><a href="https://github.com/tlp-MRRM/Proyecto_UK.git" style="color: #66cdaa;">University of Knowledge</a>: Una plataforma creada para la difusión de carreras e instituciones.</li>
+    <li><a href="https://github.com/IPF-CONECTA/IPF-CONECTA" style="color: #66cdaa;">IPF-CONECTA</a>: Una plataforma moderna creada con el fin de que los egresados de IPF (Instituto Politécnico Formosa), sean capaces de conectar con empresas y conseguir mayores oportunidades laborales.</li>
+  </ul>
+</td>
+  </tr>
+</table>
 
 ## Tecnologías:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">Editores de Código y Control de Versiones.</p>
+<p align="center" style="color: #c0c0c0;">Editores de Código y Control de Versiones.</p>
 
 <p align="center">
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 </p>
 
-<p align="center">Lenguajes de Programación y Marcado.</p>
+<p align="center" style="color: #c0c0c0;">Lenguajes de Programación y Marcado.</p>
 
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -41,7 +46,7 @@
     <a href="https://daringfireball.net/projects/markdown/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 </p>
 
-<p align="center">Frameworks y Librerías.</p>
+<p align="center" style="color: #c0c0c0;">Frameworks y Librerías.</p>
 
 <p align="center">
     <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
@@ -50,7 +55,7 @@
     <a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
 </p>
 
-<p align="center">Manejo de bases de Datos.</p>
+<p align="center" style="color: #c0c0c0;">Manejo de bases de Datos.</p>
 
 <p align="center">
     <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
@@ -58,7 +63,7 @@
     <a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
-<p align="center">Herramientas de Gestión de Proyectos.</p>
+<p align="center" style="color: #c0c0c0;">Herramientas de Gestión de Proyectos.</p>
 
 <p align="center">
     <a href="https://trello.com/"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
@@ -70,6 +75,5 @@
 ![facundorios's Stats](https://github-readme-stats.vercel.app/api?username=facundorios&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 ![facundorios's Streak](https://github-readme-streak-stats.herokuapp.com/?user=facundorios&theme=dracula&hide_border=false)
 ![facundorios's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=facundorios&theme=dracula&show_icons=true&hide_border=false&layout=compact)
-
 
 ¡No dudes en explorar mis repositorios para ver más de cerca mi trabajo! Si tienes alguna pregunta o sugerencia, no dudes en contactarme. ¡Gracias por visitar mi perfil!
