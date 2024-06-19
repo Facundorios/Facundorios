@@ -2,28 +2,24 @@
 
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un joven desarrollador de 19 años de Formosa, Argentina. Me apasiona la creación de aplicaciones web y móviles utilizando tecnologías modernas. Aquí encontrarás una variedad de proyectos en los que he estado trabajando, principalmente utilizando el stack MERN (MongoDB, Express.js, React.js, Node.js), así como otras tecnologías como Python, Nest.js, y JavaScript en general.
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Sobre mí
+## Sobre mí
 
 - 🌱 Actualmente estoy estoy estudiando la Tec. Sup. en Desarrollo de Software Multiplataforma, en el Instituto Politécnico Formosa.
 - 💼 Estoy disponible para oportunidades de trabajo, pasantías y proyectos interesantes.
 - 👯 Estoy abierto/a a colaboraciones y aprendizaje conjunto.
 - 📫 Puedes contactarme a través de mi [correo electrónico](mailto:Facundorios2005@gmail.com) o por mensaje directo en [Twitter](https://x.com/Facundorios05).
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Mis Proyectos Destacados
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - ["University of Knowledge"](https://github.com/tlp-MRRM/Proyecto_UK.git): Una plataforma creada para la difunción de carreras e instituciones.
 - ["IPF-CONECTA"](https://github.com/IPF-CONECTA/IPF-CONECTA): Una plataforma moderna creada con el fin de que los egresados de IPF (Instituto Politecnico Formosa), sean capaces de conectar con empresas y conseguir mayores oportunidades laborales.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-#### Tecnologías:
+## Tecnologías:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">Editores de Código y Control de Versiones.</p>
