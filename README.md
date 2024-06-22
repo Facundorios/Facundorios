@@ -11,7 +11,7 @@
   <ul>
     <li>🌱 Actualmente estoy estudiando la Tec. Sup. en Desarrollo de Software Multiplataforma, en el Instituto Politécnico Formosa.</li>
     <li>💼 Estoy disponible para oportunidades de trabajo, pasantías y proyectos interesantes.</li>
-    <li>👯 Estoy abierto/a a colaboraciones y aprendizaje conjunto.</li>
+    <li>👯 Estoy disponible para colaboraciones y aprendizaje conjunto.</li>
     <li>📫 Puedes contactarme a través de mi <a href="mailto:Facundorios2005@gmail.com" style="color: #66cdaa;">correo electrónico</a> o por mensaje directo en <a href="https://www.instagram.com/facundorios._" style="color: #66cdaa;">Instagram</a>.</li>
   </ul>
 
