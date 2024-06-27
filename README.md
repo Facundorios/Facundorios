@@ -69,6 +69,22 @@
     <a href="https://trello.com/"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
     <a href="https://www.atlassian.com/software/jira"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&logoColor=white"></a>
 </p>
+
+<p align="center" style="color: #c0c0c0;">Herramientas de Oficina.</p>
+
+<p align="center">
+    <a href="https://www.microsoft.com/en-us/microsoft-365/word"><img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft%20Word-2B579A.svg?logo=microsoft-word&logoColor=white"></a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?logo=microsoft-excel&logoColor=white"></a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A.svg?logo=microsoft-powerpoint&logoColor=white"></a>
+</p>
+
+<p align="center" style="color: #c0c0c0;">Ciencia de Datos y Machine Learning.</p>
+
+<p align="center">
+    <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"></a>
+    <a href="https://pandas.pydata.org/"><img alt="pandas" src="https://img.shields.io/badge/pandas-150458.svg?logo=pandas&logoColor=white"></a>
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Estadísticas de GitHub
