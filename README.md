@@ -15,10 +15,10 @@
     <li>📫 Puedes contactarme a través de mi <a href="mailto:Facundorios2005@gmail.com" style="color: #66cdaa;">correo electrónico</a> o por mensaje directo en <a href="https://www.instagram.com/facundorios._" style="color: #66cdaa;">Instagram</a>.</li>
   </ul>
 
-  <h2 style="color: #66cdaa;">Mis Proyectos Destacados</h2>
+  <h2 style="color: #66cdaa;">Mis Proyectos Destacados & Colaboraciones</h2>
   <ul>
     <li><a href="https://github.com/tlp-MRRM/Proyecto_UK.git" style="color: #66cdaa;">University of Knowledge</a>: Una plataforma creada para la difusión de carreras e instituciones.</li>
-    <li><a href="https://github.com/IPF-CONECTA/IPF-CONECTA" style="color: #66cdaa;">IPF-CONECTA</a>: Una plataforma moderna creada con el fin de que los egresados de IPF (Instituto Politécnico Formosa), sean capaces de conectar con empresas y conseguir mayores oportunidades laborales.</li>
+    
   </ul>
 </td>
   </tr>
