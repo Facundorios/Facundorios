@@ -1,19 +1,27 @@
 <table>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://media1.tenor.com/m/V0-wtCT-OPAAAAAC/spike-spiegel.gif" width=404 >
-      <p align="center">
-  <img src="https://img.shields.io/badge/ -black?style=for-the-badge&logo=javascript" alt="JavaScript" height="30" />
-  <img src="https://img.shields.io/badge/ -black?style=for-the-badge&logo=typescript" alt="TypeScript" height="30" />
-    <img src="https://img.shields.io/badge/ -black?style=for-the-badge&logo=python" alt="Python" height="30" />
-    <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=node.js" height="30" />
-  <img src="https://img.shields.io/badge/-E0234E?style=for-the-badge&logo=nestjs" height="30"/>
-  <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=react" height="30"/>
-</p>
-    </td>
-    <td style="color: #c0c0c0; background-color: #1a1a1a; padding: 20px;">
-      <h1 style="color: #66cdaa;">¡Hola! Soy Facundo Ríos</h1>
-      <p>¡Bienvenido/a a mi perfil de GitHub! Soy un joven desarrollador de 19 años de Formosa, Argentina. Me apasiona la creación de aplicaciones web y móviles utilizando tecnologías modernas. Aquí encontrarás una variedad de proyectos en los que he estado trabajando, principalmente utilizando el stack MERN (MongoDB, Express.js, React.js, Node.js), así como otras tecnologías como Python, Nest.js, y JavaScript en general.</p>
+        <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  </a>
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="NestJS" height="48" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+  </a>
+
+  </td>
+  <td style="color: #c0c0c0; background-color: #1a1a1a; padding: 20px;">
+    <h1 style="color: #66cdaa;">¡Hola! Soy Facundo Ríos</h1>
+    <p>¡Bienvenido/a a mi perfil de GitHub! Soy un joven desarrollador de 19 años de Formosa, Argentina. Me apasiona la creación de aplicaciones web y móviles utilizando tecnologías modernas. Aquí encontrarás una variedad de proyectos en los que he estado trabajando, principalmente utilizando el stack MERN (MongoDB, Express.js, React.js, Node.js), así como otras tecnologías como Python, Nest.js, y JavaScript en general.</p>
 
   <h2 style="color: #66cdaa;">Sobre mí</h2>
   <ul>
@@ -26,11 +34,10 @@
   <h2 style="color: #66cdaa;">Mis Proyectos Destacados & Colaboraciones</h2>
   <ul>
     <li><a href="https://github.com/tlp-MRRM/Proyecto_UK.git" style="color: #66cdaa;">University of Knowledge</a>: Una plataforma creada para la difusión de carreras e instituciones.</li>
-
+    
   </ul>
 </td>
-
-
+  </tr>
 </table>
 
 ## Estadísticas de GitHub
