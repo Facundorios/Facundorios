@@ -1,8 +1,8 @@
 <table>
   <tr>
-      <h1>Learning..</h1>
     <td align="center">
       <img src="https://media1.tenor.com/m/V0-wtCT-OPAAAAAC/spike-spiegel.gif" width=404 >
+      <h1>Aprendiendo:</h1>
         <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
   </a>
