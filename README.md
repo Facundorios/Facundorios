@@ -2,6 +2,8 @@
   <tr>
     <td align="center">
       <img src="https://media1.tenor.com/m/V0-wtCT-OPAAAAAC/spike-spiegel.gif" width=404 >
+      
+![facundorios's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=facundorios&theme=dracula&show_icons=true&hide_border=false&layout=compact)
       <h1>Aprendiendo:</h1>
         <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
@@ -40,10 +42,3 @@
 </td>
   </tr>
 </table>
-
-## Estadísticas de GitHub
-![facundorios's Stats](https://github-readme-stats.vercel.app/api?username=facundorios&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-![facundorios's Streak](https://github-readme-streak-stats.herokuapp.com/?user=facundorios&theme=dracula&hide_border=false)
-![facundorios's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=facundorios&theme=dracula&show_icons=true&hide_border=false&layout=compact)
-
-¡No dudes en explorar mis repositorios para ver más de cerca mi trabajo! Si tienes alguna pregunta o sugerencia, no dudes en contactarme. ¡Gracias por visitar mi perfil!
