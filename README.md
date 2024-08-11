@@ -36,8 +36,9 @@
 
   <h2 style="color: #66cdaa;">Mis Proyectos Destacados & Colaboraciones</h2>
   <ul>
-    <li><a href="https://github.com/tlp-MRRM/Proyecto_UK.git" style="color: #66cdaa;">University of Knowledge</a>: Una plataforma creada para la difusión de carreras e instituciones.</li>
-    
+      <a href="https://github.com/Facundorios/AUTH-CRUD-MERN" target="_blank">
+      <img src="./images/to-do.png" width="48">
+      </a>
   </ul>
 </td>
   </tr>
