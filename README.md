@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://media1.tenor.com/m/V0-wtCT-OPAAAAAC/spike-spiegel.gif" width=404 >
+      <img src="https://media1.tenor.com/m/V0-wtCT-OPAAAAAC/spike-spiegel.gif" width=303 >
       
 ![facundorios's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=facundorios&theme=dracula&show_icons=true&hide_border=false&layout=compact)
       <h1>Aprendiendo:</h1>
