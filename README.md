@@ -11,7 +11,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
   </a>
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.python.org/" target="blank">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   </a>
   <a href="https://nestjs.com/" target="_blank">
