@@ -24,7 +24,7 @@
   </td>
   <td style="color: #c0c0c0; background-color: #1a1a1a; padding: 20px;">
     <h1 style="color: #66cdaa;">¡Hola! Soy Facundo Ríos</h1>
-    <p>¡Bienvenido/a a mi perfil de GitHub! Soy un joven desarrollador de 19 años de Formosa, Argentina. Me apasiona la creación de aplicaciones web y móviles utilizando tecnologías modernas. Aquí encontrarás una variedad de proyectos en los que he estado trabajando, principalmente utilizando el stack MERN (MongoDB, Express.js, React.js, Node.js), así como otras tecnologías como Python, Nest.js, y JavaScript en general.</p>
+    <p>¡Bienvenido/a a mi perfil de GitHub! Soy un joven desarrollador de 19 años de Formosa, Argentina. Aquí encontrarás una variedad de proyectos en los que he estado trabajando, principalmente utilizando el stack MERN (MongoDB, Express.js, React.js, Node.js), así como otras tecnologías como Python, Nest.js, y JavaScript en general.</p>
 
   <h2>Sobre mí</h2>
     <li>🌱 Actualmente estoy estudiando la Tec. Sup. en Desarrollo de Software Multiplataforma, en el Instituto Politécnico Formosa.</li>
@@ -32,7 +32,7 @@
     <li>👯 Estoy disponible para colaboraciones y aprendizaje conjunto.</li>
     <li>📫 Puedes contactarme a través de mi <a href="mailto:Facundorios2005@gmail.com" style="color: #66cdaa;">correo electrónico</a> o por mensaje directo en <a href="https://www.instagram.com/facundorios._" style="color: #66cdaa;">Instagram</a>.</li>
 
-  <h2 style="color: #66cdaa;">Mis Proyectos Destacados & Colaboraciones</h2>
+  <h2 style="color: #66cdaa;">Mis Proyectos & Colaboraciones</h2>
   <ul>
         <a href="https://github.com/IPF-CONECTA/IPF-CONECTA" target="_blank">
       <img src="./images/IPFC.jpg" width="48">
