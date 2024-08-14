@@ -41,7 +41,10 @@
       <img src="./images/UK.png" width="48">
       </a>
       <a href="https://github.com/Facundorios/AUTH-CRUD-MERN" target="_blank">
-      <img src="./images/to-do.png" width="48">
+      <img src="./images/TODOLIST.png" width="48">
+      </a>
+            <a href="https://github.com/Facundorios/01-E-Commerce" target="_blank">
+      <img src="./images/ECOMMERCE.png" width="48">
       </a>
   </ul>
 </td>
