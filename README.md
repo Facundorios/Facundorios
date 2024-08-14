@@ -34,18 +34,16 @@
 
   <h2 style="color: #66cdaa;">Mis Proyectos & Colaboraciones</h2>
   <ul>
-        <a href="https://github.com/IPF-CONECTA/IPF-CONECTA" target="_blank">
-      <img src="./images/IPFC.jpg" width="48">
-      </a>
-            <a href="https://github.com/tlp-MRRM/Proyecto_UK" target="_blank">
-      <img src="./images/UK.png" width="48">
-      </a>
-      <a href="https://github.com/Facundorios/AUTH-CRUD-MERN" target="_blank">
-      <img src="./images/TODOLIST.png" width="48">
-      </a>
-            <a href="https://github.com/Facundorios/01-E-Commerce" target="_blank">
-      <img src="./images/ECOMMERCE.png" width="48">
-      </a>
+    
+<a href="https://github.com/tlp-MRRM/Proyecto_UK" target="_blank">
+<img src="./images/UK.png" width="48">
+</a>
+<a href="https://github.com/Facundorios/AUTH-CRUD-MERN" target="_blank">
+<img src="./images/TODOLIST.png" width="48">
+</a>
+<a href="https://github.com/Facundorios/01-E-Commerce" target="_blank">
+<img src="./images/ECOMMERCE.png" width="48">
+</a>
   </ul>
 </td>
   </tr>
