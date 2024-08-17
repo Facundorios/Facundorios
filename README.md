@@ -22,8 +22,8 @@
   </a>
 
   </td>
-  <td style="color: #c0c0c0; background-color: #1a1a1a; padding: 20px;">
-    <h1 style="color: #66cdaa;">¡Hola! Soy Facundo Ríos</h1>
+  <td >
+    <h1>Bienvenido!</h1>
     <p>¡Bienvenido/a a mi perfil de GitHub! Soy un joven desarrollador de 19 años de Formosa, Argentina. Aquí encontrarás una variedad de proyectos en los que he estado trabajando, principalmente utilizando el stack MERN (MongoDB, Express.js, React.js, Node.js), así como otras tecnologías como Python, Nest.js, y JavaScript en general.</p>
 
   <h2>Sobre mí</h2>
