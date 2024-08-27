@@ -5,21 +5,24 @@
       
 ![facundorios's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=facundorios&theme=dracula&show_icons=true&hide_border=false&layout=compact)
       <h1>Aprendiendo:</h1>
-        <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
-  </a>
-  <a href="https://www.python.org/" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  </a>
-  <a href="https://nestjs.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="NestJS" height="48" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  </a>
+      <a href="https://www.javascript.com/" target="_blank">
+      <img src="https://img.icons8.com/?size=100&id=39853&format=png&color=ffffff" height="40" alt="JavaScript" />
+      </a>
+      <a href="https://www.typescriptlang.org/" target="_blank">
+      <img src="https://img.icons8.com/?size=100&id=vMqgHSToxrJR&format=png&color=ffffff" height="40" alt="TypeScript" />
+      </a>
+      <a href="https://www.python.org/" target="blank">
+      <img src="https://img.icons8.com/?size=100&id=12584&format=png&color=ffffff" height="40" alt="Python" />
+      </a>
+      <a href="https://nestjs.com/" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="NestJS" height="40" />
+      </a>
+      <a href="https://reactjs.org/" target="_blank">
+      <img src="https://img.icons8.com/?size=100&id=047WZAFDnkVp&format=png&color=ffffff" alt="React" height="40" />
+      </a>
+      <a>
+      <img src ="https://img.icons8.com/?size=100&id=wX4mdwgxPkdH&format=png&color=ffffff" alt="PHP" height="40" />
+      </a>
 
   </td>
   <td >
