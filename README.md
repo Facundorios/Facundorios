@@ -47,6 +47,9 @@
 <a href="https://github.com/Facundorios/01-E-Commerce" target="_blank">
 <img src="./images/ECOMMERCE.png" width="48">
 </a>
+<a href="https://github.com/Facundorios/06-Equipment-Inventory" target="_blank">
+<img src="./images/EQUIPMENTINTIVENTORY.png" width="48">
+</a>
 <a href="https://github.com/costadonifabricio/EquiJustice" target="_blank">
 <img src="./images/XJUSTICE.png" width="48">
 </a>
